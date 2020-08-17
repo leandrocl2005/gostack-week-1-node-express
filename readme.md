@@ -1,8 +1,9 @@
 ## Setup
 - yarn init -y
 - yarn add express
+- yarn add nodemon -D
 
 ## Run
-- node src/index.js
+- yarn dev
 
 Enter http://localhost:3333
